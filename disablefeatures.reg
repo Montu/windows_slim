@@ -11,7 +11,14 @@ Windows Registry Editor Version 5.00
 "NoSetTaskbar"=dword:00000001
 "NoToolbarsOnTaskbar"=dword:00000001
 "NoTrayContextMenu"=dword:00000001
-"NoSaveSettings"=dword:00000000
+"NoSaveSettings"=dword:00000001
+"NoViewContextMenu"=dword:00000001
+"NoStartMenuMorePrograms"=dword:00000001
+"NoStartMenuPinnedList"=dword:00000001
+"NoWindowsUpdate"=dword:00000001
+"NoClose"=dword:00000001
+"NoUserNameInStartMenu"=dword:00000001
+
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
 
